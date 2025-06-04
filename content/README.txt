@@ -1,0 +1,1 @@
+Pasta usada pelo Ghost para banco de dados e configuração local.
